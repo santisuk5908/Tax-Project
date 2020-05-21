@@ -1,0 +1,9 @@
+D:\golf\11052563\TAX\TAX\bin\Debug\TAX.exe.config
+D:\golf\11052563\TAX\TAX\bin\Debug\TAX.exe
+D:\golf\11052563\TAX\TAX\bin\Debug\TAX.pdb
+D:\golf\11052563\TAX\TAX\obj\Debug\TAX.csprojAssemblyReference.cache
+D:\golf\11052563\TAX\TAX\obj\Debug\TAX.Properties.Resources.resources
+D:\golf\11052563\TAX\TAX\obj\Debug\TAX.csproj.GenerateResource.cache
+D:\golf\11052563\TAX\TAX\obj\Debug\TAX.exe
+D:\golf\11052563\TAX\TAX\obj\Debug\TAX.pdb
+D:\golf\11052563\TAX\TAX\obj\Debug\TAX.index.resources
